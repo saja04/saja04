@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Federico Saa</h1>
 <h3 align="center">A passionate backend orientated web developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Experience past Soy Henry**
+- 🔭 I’m currently working on **my personal portfolio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
