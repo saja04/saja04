@@ -14,7 +14,6 @@
 ---
 
 ### Languages and Tools I'm most familiar with:
-<br>
 <p align="left"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
