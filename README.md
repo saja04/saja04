@@ -1,12 +1,13 @@
-## 🔭 I’m currently working on **my new personal portfolio**
+### 🔭 I’m currently working on **my new personal portfolio**
 
-<br> <!-- This ensures an empty line -->
+<br>
+---
+### Connect with me in [Linkedin](https://www.linkedin.com/in/federico-saa-4ab74b297/) or [X](https://x.com/el_zekke04).
 
-## Connect with me in [Linkedin](https://www.linkedin.com/in/federico-saa-4ab74b297/) or [X](https://x.com/el_zekke04).
-
-<br> <!-- Another empty line -->
-
-## Languages and Tools I'm most familiar with:
+<br>
+---
+### Languages and Tools I'm most familiar with:
+<br>
 <p align="left"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
